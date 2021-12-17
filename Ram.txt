@@ -1,2 +1,6 @@
 ## hello palak
+<<<<<<< HEAD
 This is edited by dev-1
+=======
+this is my dev-2.
+>>>>>>> 620c5005dc4e78cc89c5d8e10564d3c044063c6b
